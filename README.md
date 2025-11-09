@@ -13,5 +13,5 @@ Hi! Thanks for visiting my GitHub page. I am a **programmer**, hobby **trumpet p
   - **TI-89 BASIC**
       > I have made a few fun programs with this 'language'    
 ---
->*"Life is a battle of wits and toughness indeed"*      
+>*"Life is a battle of wits and toughness indeed."*      
 >*-Seamus McManus*
