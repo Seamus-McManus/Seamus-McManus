@@ -8,7 +8,9 @@ Hi! Thanks for visiting my GitHub page. I am a **programmer**, hobby **trumpet p
 - **Python**
     >This is **my most proficient language** (I learned it when I was 10 years of age)
 - **Java**
-    > Currently learning
+    > Finished AP Computer Science Course!
+- **HTML**
+    > Currently Learning
 ### 'Honerable Mentions'
   - **TI-89 BASIC**
       > I have made a few fun programs with this 'language'    
