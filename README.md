@@ -9,6 +9,8 @@ Hi! Thanks for visiting my GitHub page. I am a **programmer**, hobby **trumpet p
     >This is **my most proficient language** (I learned it when I was 10 years of age)
 - **Java**
     > Finished AP Computer Science Course!
+- **C++**
+    > Working on some microcontroller projects
 - **HTML**
     > Currently Learning
 ### 'Honerable Mentions'
